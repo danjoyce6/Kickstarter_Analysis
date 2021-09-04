@@ -6,6 +6,7 @@ The purpose of this data analysis was to utilize the excel dataset Kickstarter t
 ## Analysis and Challenges ---
 ### Analysis of Outcomes Based on Launch Date ---
 The "Kickstarter" excel data set and excel were utilized in the analysis of Outcomes Based on Launch Date. The variables of "Parent Category", "Years", and "Outcomes" in the Kickstarter dataset were all used to make a line graph depicting Theater Outcomes based on Launch Date. As seen in Figure 1 ,Theater Outcomes Based on Launch Date, the most "Successful" theater kickstarter projects based on launch date occurred in May.  The summer months of April ,May, June, July, and August presented the largest amount of "Successful" outcomes for theater based kickstarter projects.  The most "Failed" projects occurred in October, but remained relatively constant throughout the remained of months.  The time of start date did not appear to have an effect on whether or not a kickstarter is "Canceled".  Please, refer to Figure 1 below, Theater Outcomes Based on Launch Date. ---
+
  ---![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88444529/132062586-47303f3c-9c59-465f-a276-c6c401281be3.png)
  ---
 ### Analysis of Outcomes Based on Goals ---
